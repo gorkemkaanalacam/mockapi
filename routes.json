@@ -1,0 +1,5 @@
+{
+  "/communityforum/community_forums": "/community_forums",
+  "/communityforum/community_forums/:id/accounts": "/communityforum/:id",
+  "/request_management/requests": "/request_management"
+}
