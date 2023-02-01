@@ -113,6 +113,6 @@ server.use(jsonServer.rewriter({
     "/request_management/requests": "/request_management"
   }))
 server.use(router)
-server.listen(80,  "0.0.0.0:$PORT", () => {
+server.listen("0.0.0.0:3000", () => {
   console.log('JSON Server is running')
 })
