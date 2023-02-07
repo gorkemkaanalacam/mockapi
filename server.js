@@ -108,7 +108,7 @@ server.post('/request_management/requests', (req, res) => {
 server.use(jsonServer.rewriter({
     '/*': '/$1',
     "/communityforum/community_forums": "/community_forums",
-    //"/communityforum/community_forums/:id/accounts": "/communityforum/:id",
+    "/communityforum/community_forums/:id/accounts": "/communityforum/:id",
     "/communityforum/community_forums/:id/accounts?blocked=:blocked": "/communityforum/:id",
     "/request_management/requests": "/request_management"
   }))
