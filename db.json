@@ -22,20 +22,14 @@
       "data": {
         "accounts": [
           {
-            "data": {
-              "accounts": [
-                {
-                  "id": 1,
-                  "first_name": "test",
-                  "last_name": "test",
-                  "email": "tester@me.com",
-                  "created_at": "2022-05-20T13:34:37.710Z",
-                  "updated_at": "2022-05-20T13:38:43.798Z",
-                  "role_id": 1,
-                  "user_name": null
-                }
-              ]
-            }
+            "id": 1,
+            "first_name": "test",
+            "last_name": "test",
+            "email": "tester@me.com",
+            "created_at": "2022-05-20T13:34:37.710Z",
+            "updated_at": "2022-05-20T13:38:43.798Z",
+            "role_id": 1,
+            "user_name": null
           }
         ]
       }
@@ -68,7 +62,7 @@
           "type1": "community_forum",
           "attributes": {
             "id": 3,
-            "name": "Community forum 1",
+            "name": "Community forum 2",
             "description": "Description",
             "topics": "topic1, topic2",
             "created_at": "2021-10-07T15:31:46.573Z",
