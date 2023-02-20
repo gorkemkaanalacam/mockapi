@@ -54,7 +54,8 @@
             "followed": true,
             "profile_pic": null,
             "cover_pic": null,
-            "follower_count": 0
+            "follower_count": 0,
+            "admin_group_id": 1
           }
         },
         {
@@ -73,7 +74,8 @@
             "followed": true,
             "profile_pic": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4daa0088c799c1fa7822d8722b78f91ece0a67c6/laptop.png",
             "cover_pic": "/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8656e40da5eaa2b0b10f4e715fa0012ab8c057ab/laptop.png",
-            "follower_count": 0
+            "follower_count": 0,
+            "admin_group_id": 1
           }
         }
       ]
